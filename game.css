@@ -1,0 +1,38 @@
+body
+{
+	background: url("mathsbg.gif")
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #ce05bd;
+padding: 10px;
+float: none;
+text-align: left;
+}
